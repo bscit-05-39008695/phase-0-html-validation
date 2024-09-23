@@ -1,0 +1,7 @@
+{
+  "name": "phase-0-html-validation",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  }
+}
